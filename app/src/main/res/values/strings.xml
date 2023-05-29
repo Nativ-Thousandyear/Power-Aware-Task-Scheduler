@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Power-Aware Task Scheduler</string>
+    <string name="power_aware_task_scheduler">Power-Aware Task Scheduler</string>
+    <string name="start_scheduler">Start Scheduler</string>
+    <string name="task_scheduler">Task Scheduler</string>
+</resources>

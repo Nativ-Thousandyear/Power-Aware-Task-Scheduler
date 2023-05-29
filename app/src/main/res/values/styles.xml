@@ -1,0 +1,12 @@
+<resources>
+    <!-- App Theme -->
+    <style name="AppTheme" parent="Theme.PowerAwareTaskScheduler">
+        <!-- Customize your theme here -->
+    </style>
+
+    <!-- App Theme with No ActionBar -->
+    <style name="AppTheme.NoActionBar" parent="Theme.PowerAwareTaskScheduler">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>
