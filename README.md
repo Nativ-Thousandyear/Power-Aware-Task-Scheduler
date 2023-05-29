@@ -1,6 +1,7 @@
 # Power-Aware-Task-Scheduler
 This is a Power-Aware Task Scheduler Android application that allows users to schedule and manage tasks on their Android device while considering power consumption and performance.
 
+
 ## Features
 
 - Create and schedule tasks
