@@ -20,11 +20,3 @@ This is a Power-Aware Task Scheduler Android application that allows users to sc
 2. Create tasks and schedule them according to your preferences.
 3. Monitor power consumption and performance metrics.
 
-## Contributing
-
-Contributions are welcome! Please create a new issue or submit a pull request for any improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License.
-
